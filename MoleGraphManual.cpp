@@ -1,4 +1,4 @@
-#include "molegraphmanual.h"
+#include "MoleGraphManual.h"
 
 #define DEBUG_MSG_MAX_SIZE 100
 
