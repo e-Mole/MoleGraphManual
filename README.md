@@ -1,6 +1,8 @@
 # MoleGraphManual - Arduino Library
 
-Open-source Arduino library for custom firmware development with **MoleGraph** school probeware system.
+Open-source Arduino library for custom firmware development with the **[MoleGraph](https://www.molegraph.eu)** school probeware system. 
+
+🌐 **Project Website:** [molegraph.eu](https://www.molegraph.eu) | 📁 **Main Repository:** [e-Mole/MoleGraph](https://github.com/e-Mole/MoleGraph)
 
 ## 📚 Overview
 
