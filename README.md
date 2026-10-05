@@ -14,7 +14,7 @@ Open-source Arduino library for custom firmware development with the **[MoleGrap
 - ✅ Synchronize measurements with desktop/mobile MoleGraph applications
 
 ### 🎓 Academic Background
-This project is based on research outcomes from a doctoral dissertation thesis at Charles University. It explores the implementation of open-source probeware systems in STEM education.
+This project is based on research outcomes from a doctoral dissertation thesis at Charles University Prague. It explores the implementation of open-source probeware systems in STEM education.
 - **Dissertation Thesis (CUNI Repository):** [A Tool for STEM Education: Open-Source and School Probeware Systems](https://dspace.cuni.cz/handle/20.500.11956/211517)
 - **Journal Article:** [MoleGraph: A Tool for Developing Scientific and Digital Skills in Schools](https://doi.org/10.54779/chl20250208)
 - **Journal Article:** [Molegraph: DIY Sensors for School Experiments and Their Comparison with Commercial Options](https://doi.org/10.54779/chl20250357)
