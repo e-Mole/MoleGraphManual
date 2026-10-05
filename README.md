@@ -357,7 +357,7 @@ void setup() {
 
 Part of the **MoleGraph** open-source school probeware system.
 
-Released under the **MIT License**. For full details, see the [LICENSE file in the main repository] ([https://github.com/e-Mole/MoleGraph/blob/235fc78c1542c4cfff8414ef5bcaf49da15fabf1/LICENSE]).
+Released under the **MIT License**. For full details, see the [LICENSE file in the main repository](https://github.com/e-Mole/MoleGraph/blob/235fc78c1542c4cfff8414ef5bcaf49da15fabf1/LICENSE).
 
 ---
 
