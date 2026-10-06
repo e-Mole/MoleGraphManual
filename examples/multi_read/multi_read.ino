@@ -2,11 +2,13 @@
 //   MoleGraph Probeware example code
 //    (www.e-mole.cz/diy/molegraph) 
 //******************************************
+// This example needs cactus_io_BME280_I2C library
+// for I2C BME280 multisensor
 
 // Enable MoleGraph U01 shield function
 #define SYSTEM
 #include <Wire.h> 
-#include "molegraphmanual.h"
+#include <MoleGraphManual.h>
 #include "cactus_io_BME280_I2C.h"
 
 #define AD1 PORT_1A

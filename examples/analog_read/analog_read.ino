@@ -5,7 +5,7 @@
 
 // Enable MoleGraph U01 shield function
 #define SYSTEM
-#include <molegraphmanual.h>
+#include <MoleGraphManual.h>
 
 MoleGraphManual moleGraph;
 
